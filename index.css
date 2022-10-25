@@ -5,7 +5,7 @@ body
     background-color: hsl(212, 45%, 89%);
     margin: 0;
     text-align: center;
-    width: 40%;
+    width: 20%;
     margin: 200px auto;
 
     
@@ -20,7 +20,7 @@ body
 .block1
 {
     background-color: hsl(0, 0%, 100%);
-    width: 40%;
+    width: 100%;
     text-align: center;
     margin: auto;
     padding: 10px 10px 10px;
